@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lincats888.github.io/TechShare/sitemap.xml

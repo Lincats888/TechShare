@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lincats888.github.io/TechShare/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lincats888.github.io/TechShare/</loc>
+</url>
+<url>
+<loc>https://lincats888.github.io/TechShare/space_smell.html</loc>
+<lastmod>2025-07-21T06:47:09+08:00</lastmod>
+<image:image>
+<image:loc>https://lincats888.github.io/TechShare/media/posts/1/nasa-UeSpvB0Qo88-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lincats888.github.io/TechShare/media/posts/1/nasa-UeSpvB0Qo88-unsplash-2.jpg</image:loc>
+<image:title><![CDATA[阿姆斯特朗在月球表面是我们对太空飞行的灵感]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lincats888.github.io/TechShare/wo-you-yi-ge-meng-xiang.html</loc>
+<lastmod>2025-07-21T06:46:41+08:00</lastmod>
+<image:image>
+<image:loc>https://lincats888.github.io/TechShare/media/posts/2/markus-winkler-EX9QVVFtQxw-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
